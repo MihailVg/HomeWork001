@@ -4,7 +4,7 @@ Console.WriteLine("Введите число, четность которого 
 
 int numberA = int.Parse(Console.ReadLine());
 
-if(numberA % 2 = 0)
+if(numberA % 2 == 0)
 {
     Console.WriteLine("Является четным числом");
 }
